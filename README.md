@@ -14,7 +14,7 @@
 ---------
  เนื้อหา
 
-- ทำความรู้จัก Program Blender 
+- [ทำความรู้จัก Program Blender](/Blender.md)
 - การสร้าง Moder
 - การสร้าง Material 
 - การใส่แสง (Lighting) และสีบนวัตถุ

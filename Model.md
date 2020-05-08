@@ -30,5 +30,5 @@
 [Click](https://www.youtube.com/watch?v=TzIH-VsnpuY&t=5s)
 
 ----------------------------------
-[กลับหน้าแรก](/README.md)
+[กลับสู่หน้าหลัก](/README.md)
 

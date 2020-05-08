@@ -27,8 +27,8 @@
 
 ----------------------------------
 ### วีดีโอสร้างโมเดลด้วยโปรแกรม Blender
-[VDO1](https://www.youtube.com/watch?v=TzIH-VsnpuY&t=5s)
+[Click](https://www.youtube.com/watch?v=TzIH-VsnpuY&t=5s)
 
-
+----------------------------------
 [กลับหน้าแรก](/)
 

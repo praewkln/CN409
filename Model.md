@@ -26,6 +26,6 @@
 ![Logo](https://github.com/praewkln/CN409/blob/master/model5.png?raw=true)
 
 ----------------------------------
-![VDO](https://www.youtube.com/watch?v=TzIH-VsnpuY&t=5s?raw=true)
+![VDO](https://www.youtube.com/watch?v=TzIH-VsnpuY&t=5s)
 [กลับหน้าแรก](/)
 

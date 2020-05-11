@@ -1,9 +1,8 @@
 # วีดีโอผลงานที่สร้างด้วยโปรแกรม Blender
 วีดีโอนี้เป็นวีดีโอให้ความรู้เกี่ยวกับโรคระบาดในปัจจุบันคือ 'Covid - 19' โดยการนำโมเดลและฉากพื้นหลังที่สร้างขึ้นมาทำอนิเมชันเพิ่มการเคลื่อนไหวและใช้กล้องถ่ายทำของโปรแกรม Blender โดยนำความรู้ที่ได้จากการเรียนในรายวิชา SPECIAL TOPICS IN COMPUTER ENGINEERING II นำมาประยุกต์ใช้ในการสร้างสรรค์ผลงาน
-[Click](https://www.youtube.com/watch?v=PNT9KrbnXU0)
+
+[วีดีโอผลงานที่สร้างด้วยโปรแกรม Blender ](https://www.youtube.com/watch?v=PNT9KrbnXU0)
 
 ----------------------------------
 [กลับสู่หน้าหลัก](/README.md)
 
-
-https://www.youtube.com/watch?v=PNT9KrbnXU0

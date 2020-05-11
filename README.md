@@ -15,9 +15,9 @@
  เนื้อหา
 
 - [ทำความรู้จัก Program Blender](/Blender.md)
-- [การสร้าง Model](/Model.md)
-- [การสร้าง Material](/Material.md)
-- [การใส่แสง (Lighting) และสีบนวัตถุ](/Lighting.md)
-- [การทำ Animation](/Animation.md)
-- [การตัดต่อวีดีโอ](/Edittor.md)
-- [ผลงานที่สร้าง](/Project.md)
+- [การสร้าง Model (Clip 1)](/Model.md)
+- [การสร้าง Material (Clip 2)](/Material.md)
+- [การใส่แสง Lighting และสีบนวัตถุ (Clip 3)](/Lighting.md)
+- [การทำ Animation (Clip 4)](/Animation.md)
+- [การตัดต่อวีดีโอ (Clip 5)](/Edittor.md)
+- [ผลงานที่สร้าง (Final Project + Howto)](/Project.md)

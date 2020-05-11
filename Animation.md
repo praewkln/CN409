@@ -19,7 +19,7 @@
 
 ![Logo](https://github.com/praewkln/CN409/blob/master/animation4.png?raw=true)
 
-
+- เมื่อทำ Animation ได้ดังต้องการแล้วให้ทำการ render animation
 
 ----------------------------------
 ### วีดีโอการทำ Animation ด้วยโปรแกรม Blender
